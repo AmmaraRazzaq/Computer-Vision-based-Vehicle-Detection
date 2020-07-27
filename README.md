@@ -1,10 +1,10 @@
 # Computer-Vision-based-Vehicle-Detection
-##### <i>Detecting vehicles in images using computer vision based machine learning</i>
+##### <i>Detecting vehicles in images using computer vision based machine learning.</i>
 
 ## 1. Introduction
 In driving assistance systems (ADAS), the camera mounted on vehicles capture preceding vehicles. The captured vehicle may have variance on local shape, color, view and are affected by local occlusion and illumination conditions etc, which challenges most of the existing object detection methods to complete the preceding vehicle detection.
 
-In this project vehicle detection based on HOG and SVM classifier is implemented based on research paper “Preceding Vehicle Detection using Histogram of Oriented Gradients”. 
+In this project vehicle detection based on HOG and SVM classifier is implemented based on research paper <b>[Preceding Vehicle Detection using Histogram of Oriented Gradients](https://github.com/AmmaraRazzaq/Computer-Vision-based-Vehicle-Detection/blob/master/preceding%20vehicle%20detection%20using%20histogram%20of%20oriented%20gradients.pdf)</b>. 
 
 ## 2. Vehicle Detection System
 ![alt text](https://github.com/AmmaraRazzaq/Computer-Vision-based-Vehicle-Detection/blob/master/figures/1.jpg?raw=true)
