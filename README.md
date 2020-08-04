@@ -1,5 +1,5 @@
 # Computer-Vision-based-Vehicle-Detection
-##### <i>Detecting vehicles in images using computer vision based machine learning.</i>
+##### Research Paper: <i>Preceding Vehicle Detection using Histogram of Oriented Gradients</i>
 
 ## 1. Introduction
 In driving assistance systems (ADAS), the camera mounted on vehicles capture preceding vehicles. The captured vehicle may have variance on local shape, color, view and are affected by local occlusion and illumination conditions etc, which challenges most of the existing object detection methods to complete the preceding vehicle detection.
